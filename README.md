@@ -1,2 +1,0 @@
-# Skola
-net beans projekts
